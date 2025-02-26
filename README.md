@@ -11,7 +11,7 @@ This project uses some third-party assets with a license that requires attributi
  - **Raleway Font**: by Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida and by Igino Marini  ([Raleway at Google Fonts](https://www.google.com/fonts/specimen/Raleway))
 
 For extra information about licenses, you can see it at the dependency repositories.
-
+token = "3OU0hwg5CNrzec73ee0HKbLftaljhMOzU0j296erj0bW7ndaRXmoJQQJ99BBACAAAAAAArohAAASAZDO3nJm"
 # Prerequisites #
 
  - Windows 10
